@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# An independent, fan-made index of Tim Ferriss's 5-Bullet Friday recommendations.
