@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "Tim Ferriss 5-Bullet Friday",
-    "generated": "2026-09-05",
-    "total": 2896,
+    "generated": "2026-09-12",
+    "total": 2903,
     "linksSource": "Notion native export (author-provided) + resolved fallback"
   },
   "categories": [
@@ -1592,6 +1592,13 @@
       "type": "music",
       "name": "Music",
       "items": [
+        {
+          "title": "Productivity Mix (deadmau5 compilation)",
+          "year": "2026",
+          "author": "Haldor Asheim",
+          "note": "Continuous mix for writing without distracting vocals",
+          "link": "https://www.youtube.com/watch?v=FIFN1zRTebs"
+        },
         {
           "title": "2001 (Instrumentals)",
           "year": "2026",
@@ -6014,6 +6021,12 @@
       "name": "Podcasts",
       "items": [
         {
+          "title": "Behind-The-Scenes Session with Niels Hoven",
+          "year": "2026",
+          "note": "Coaching conversation on Mentava and teaching toddlers to read",
+          "link": "https://tim.blog/2026/09/10/niels-hoven-mentava/?utm_source=convertkit&utm_medium=convertkit&utm_campaign=5bf"
+        },
+        {
           "title": "A rational conversation on where AI is actually going (Lenny Podcast, feat. Benedict Evans)",
           "year": "2026",
           "note": "Tim best AI podcast episode in months",
@@ -6580,6 +6593,12 @@
       "type": "tool",
       "name": "Tools & Gadgets",
       "items": [
+        {
+          "title": "Artisana Organics Raw Walnut Butter with Cashews",
+          "year": "2026",
+          "note": "Two-ingredient raw walnut-cashew butter; walnuts linked to sperm quality",
+          "link": "https://www.amazon.com/dp/B004JNXDNK/?tag=offsitoftimfe-20"
+        },
         {
           "title": "Focal Bathys wireless noise-cancelling headphones",
           "year": "2026",
@@ -8979,6 +8998,18 @@
       "type": "essay",
       "name": "Articles & Essays",
       "items": [
+        {
+          "title": "Brain-Stimulating Contact Lenses Match Prozac in Depression Study (Neuroscience News)",
+          "year": "2026",
+          "note": "Drug-free contact lens stimulates mood circuits via the retina; matches fluoxetine in mice",
+          "link": "https://neurosciencenews.com/brain-stimulating-contact-lenses-depression-30690/"
+        },
+        {
+          "title": "Contact lens bioelectronic platform for non-invasive depression treatment with machine-learning-based evaluation (Cell Reports Physical Science)",
+          "year": "2026",
+          "note": "Original paper behind the Neuroscience News piece",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2666386426002092"
+        },
         {
           "title": "How to turn your AI into a world-class designer",
           "year": "2026",
@@ -12950,6 +12981,12 @@
       "name": "Quotes",
       "items": [
         {
+          "title": "One must say Yes to life and embrace it wherever it is found—and it is found in terrible places. … For nothing is fixed, forever and forever and forever, it is not fixed; the earth is always shifting, the light is always changing, the sea does not cease to grind down rock. Generations do not cease to be born, and we are responsible to them because we are the only witnesses they have. The sea rises, the light fails, lovers cling to each other and children cling to us. The moment we cease to hold each other, the moment we break faith with one another, the sea engulfs us and the light goes out.",
+          "year": "2026",
+          "author": "James Baldwin",
+          "link": "https://en.wikipedia.org/wiki/James_Baldwin"
+        },
+        {
           "title": "Most of us tend to take our thoughts and ideas as actual descriptions of reality.",
           "year": "2026",
           "author": "Bruce Tift, Already Free: Buddhism Meets Psychotherapy on the Path of Liberation",
@@ -16288,6 +16325,12 @@
       "type": "other",
       "name": "Other",
       "items": [
+        {
+          "title": "The Pomodoro Technique",
+          "year": "2026",
+          "note": "25-minute single-task sprints Tim is using again; timers: E.ggTimer or Google Timer",
+          "link": "https://en.wikipedia.org/wiki/Pomodoro_Technique"
+        },
         {
           "title": "Mice Against Ticks",
           "year": "2026",
