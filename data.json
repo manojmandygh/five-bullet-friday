@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "Tim Ferriss 5-Bullet Friday",
-    "generated": "2026-09-12",
-    "total": 2903,
+    "generated": "2026-09-19",
+    "total": 2911,
     "linksSource": "Notion native export (author-provided) + resolved fallback"
   },
   "categories": [
@@ -3276,6 +3276,13 @@
       "name": "Videos",
       "items": [
         {
+          "title": "Mary Oliver: Saved by the Beauty of the World",
+          "year": "2026",
+          "author": "",
+          "note": "American Masters documentary directed by Sasha Waters",
+          "link": "https://www.youtube.com/watch?v=hCyw9F4t7QQ"
+        },
+        {
           "title": "Love, Death + Robots: \"For He Can Creep\" (S4E8)",
           "year": "2026",
           "note": "Animated anthology episode; Tim is catching up on season 4",
@@ -6021,6 +6028,20 @@
       "name": "Podcasts",
       "items": [
         {
+          "title": "Personal Renewal - John Gardner, read by Jackson Dahl (Dialectic)",
+          "year": "2026",
+          "author": "",
+          "note": "Audio version of the 1990 speech Tim revisits",
+          "link": "https://open.spotify.com/episode/3uByV3bylGxAOypXhPrg65"
+        },
+        {
+          "title": "Tania de Jong on legalizing medical psychedelics (Tim Ferriss Show)",
+          "year": "2026",
+          "author": "",
+          "note": "Mind Medicine Australia co-founder; Australia first to reclassify MDMA and psilocybin",
+          "link": "https://tim.blog/2026/09/18/how-to-legalize-medical-psychedelics/"
+        },
+        {
           "title": "Behind-The-Scenes Session with Niels Hoven",
           "year": "2026",
           "note": "Coaching conversation on Mentava and teaching toddlers to read",
@@ -6593,6 +6614,13 @@
       "type": "tool",
       "name": "Tools & Gadgets",
       "items": [
+        {
+          "title": "OMA Nourishing Seaweed Soup (Beef Bone Broth)",
+          "year": "2026",
+          "author": "",
+          "note": "Instant miyeok-guk (Korean seaweed soup); one cube + boiling water",
+          "link": "https://omanaturalfood.com/products/natural-seaweed-soup-ready-to-eat"
+        },
         {
           "title": "Artisana Organics Raw Walnut Butter with Cashews",
           "year": "2026",
@@ -8998,6 +9026,20 @@
       "type": "essay",
       "name": "Articles & Essays",
       "items": [
+        {
+          "title": "Could anesthesia-induced dreams wipe away trauma? (Stanford Medicine)",
+          "year": "2026",
+          "author": "",
+          "note": "Dream engineering to treat trauma",
+          "link": "https://med.stanford.edu/news/insights/2024/04/anesthesia-induced-dreams-trauma-recovery.html"
+        },
+        {
+          "title": "Could anesthesia dreams be a more palatable psychedelic therapy? (Stanford Medicine)",
+          "year": "2026",
+          "author": "",
+          "note": "Pair piece on anesthesia dreams as therapy",
+          "link": "https://med.stanford.edu/news/insights/2026/09/anesthesia-dreams-potential-psychedelic-therapy-option.html"
+        },
         {
           "title": "Brain-Stimulating Contact Lenses Match Prozac in Depression Study (Neuroscience News)",
           "year": "2026",
@@ -12981,6 +13023,13 @@
       "name": "Quotes",
       "items": [
         {
+          "title": "“Instructions for living a life: Pay attention. Be astonished. Tell about it.”",
+          "year": "2026",
+          "author": "Mary Oliver, Sometimes",
+          "note": "",
+          "link": "https://readalittlepoetry.com/2014/09/10/sometimes-by-mary-oliver/"
+        },
+        {
           "title": "One must say Yes to life and embrace it wherever it is found—and it is found in terrible places. … For nothing is fixed, forever and forever and forever, it is not fixed; the earth is always shifting, the light is always changing, the sea does not cease to grind down rock. Generations do not cease to be born, and we are responsible to them because we are the only witnesses they have. The sea rises, the light fails, lovers cling to each other and children cling to us. The moment we cease to hold each other, the moment we break faith with one another, the sea engulfs us and the light goes out.",
           "year": "2026",
           "author": "James Baldwin",
@@ -16325,6 +16374,13 @@
       "type": "other",
       "name": "Other",
       "items": [
+        {
+          "title": "DUST",
+          "year": "2026",
+          "author": "",
+          "note": "Dr. Adam Haar Horowitz startup for dream engineering (targeted dream incubation)",
+          "link": "https://www.dust.systems/"
+        },
         {
           "title": "The Pomodoro Technique",
           "year": "2026",
