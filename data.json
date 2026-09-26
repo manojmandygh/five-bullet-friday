@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "Tim Ferriss 5-Bullet Friday",
-    "generated": "2026-09-19",
-    "total": 2911,
+    "generated": "2026-09-25",
+    "total": 2916,
     "linksSource": "Notion native export (author-provided) + resolved fallback"
   },
   "categories": [
@@ -1592,6 +1592,13 @@
       "type": "music",
       "name": "Music",
       "items": [
+        {
+          "title": "Rich Woman - Robert Plant and Alison Krauss",
+          "year": "2026",
+          "author": "",
+          "note": "One of two songs Tim is enjoying",
+          "link": "https://open.spotify.com/track/4pD6dZayOsvT7B08esFWJs"
+        },
         {
           "title": "Productivity Mix (deadmau5 compilation)",
           "year": "2026",
@@ -3275,6 +3282,13 @@
       "type": "video",
       "name": "Videos",
       "items": [
+        {
+          "title": "Speaking With The Mind | Neuralink",
+          "year": "2026",
+          "author": "",
+          "note": "VOICE trial participant with ALS speaks again via implant; Tim: prepare to tear up",
+          "link": "https://www.youtube.com/watch?v=_j806JHhCRo"
+        },
         {
           "title": "Mary Oliver: Saved by the Beauty of the World",
           "year": "2026",
@@ -6028,6 +6042,13 @@
       "name": "Podcasts",
       "items": [
         {
+          "title": "Kevin Ryan on spotting 10-year trends and building billion-dollar companies (Tim Ferriss Show)",
+          "year": "2026",
+          "author": "",
+          "note": "\"Godfather of NYC tech\"",
+          "link": "https://tim.blog/2026/09/24/kevin-ryan/"
+        },
+        {
           "title": "Personal Renewal - John Gardner, read by Jackson Dahl (Dialectic)",
           "year": "2026",
           "author": "",
@@ -6614,6 +6635,13 @@
       "type": "tool",
       "name": "Tools & Gadgets",
       "items": [
+        {
+          "title": "Aerolamp",
+          "year": "2026",
+          "author": "",
+          "note": "Far-UVC lamp that inactivates airborne viruses and bacteria; Tim is learning more, not buying yet",
+          "link": "https://aerolamp.net/products/devkit"
+        },
         {
           "title": "OMA Nourishing Seaweed Soup (Beef Bone Broth)",
           "year": "2026",
@@ -13022,6 +13050,13 @@
       "type": "quote",
       "name": "Quotes",
       "items": [
+        {
+          "title": "“The fact that this person exists in the world at all, this alone makes this world, and a life in it, meaningful.”",
+          "year": "2026",
+          "author": "Viktor Frankl",
+          "note": "",
+          "link": "https://en.wikipedia.org/wiki/Viktor_Frankl"
+        },
         {
           "title": "“Instructions for living a life: Pay attention. Be astonished. Tell about it.”",
           "year": "2026",
