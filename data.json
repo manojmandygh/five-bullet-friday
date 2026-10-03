@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "Tim Ferriss 5-Bullet Friday",
-    "generated": "2026-09-25",
-    "total": 2916,
+    "generated": "2026-10-03",
+    "total": 2920,
     "linksSource": "Notion native export (author-provided) + resolved fallback"
   },
   "categories": [
@@ -1592,6 +1592,13 @@
       "type": "music",
       "name": "Music",
       "items": [
+        {
+          "title": "Inevitable Ending - Armen Miran and Hraach (Viken Arman & Goldcap remix)",
+          "year": "2026",
+          "author": "",
+          "note": "Great for writing sessions; versatile",
+          "link": "https://open.spotify.com/track/3RTDqBKNPNwCwbxXiTldtJ"
+        },
         {
           "title": "Rich Woman - Robert Plant and Alison Krauss",
           "year": "2026",
@@ -6042,6 +6049,13 @@
       "name": "Podcasts",
       "items": [
         {
+          "title": "How to Simplify Your Life, part 4 (Tim Ferriss Show)",
+          "year": "2026",
+          "author": "",
+          "note": "Advice from Chip Conley, Greg McKeown, David Allen, Elizabeth Gilbert and Oliver Burkeman",
+          "link": "https://tim.blog/2026/10/01/how-to-simplify-your-life-4/"
+        },
+        {
           "title": "Kevin Ryan on spotting 10-year trends and building billion-dollar companies (Tim Ferriss Show)",
           "year": "2026",
           "author": "",
@@ -6635,6 +6649,13 @@
       "type": "tool",
       "name": "Tools & Gadgets",
       "items": [
+        {
+          "title": "Sennheiser Pro Audio Condenser Microphone (XS Lav USB-C)",
+          "year": "2026",
+          "author": "",
+          "note": "Lav mic that plugs into an iPhone; pair with the Ferrite app",
+          "link": "https://www.amazon.com/Sennheiser-Pro-Audio-Microphone-509261/dp/B08YS2G4FB"
+        },
         {
           "title": "Aerolamp",
           "year": "2026",
@@ -9054,6 +9075,13 @@
       "type": "essay",
       "name": "Articles & Essays",
       "items": [
+        {
+          "title": "Open letter from Bernard Arnault (LVMH) responding to Le Monde investigation",
+          "year": "2026",
+          "author": "",
+          "note": "Case study in clever media-crisis management",
+          "link": "https://www.instagram.com/p/DbV3UoZFCW-/?img_index=1"
+        },
         {
           "title": "Could anesthesia-induced dreams wipe away trauma? (Stanford Medicine)",
           "year": "2026",
