@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "Tim Ferriss 5-Bullet Friday",
-    "generated": "2026-10-03",
-    "total": 2920,
+    "generated": "2026-10-09",
+    "total": 2926,
     "linksSource": "Notion native export (author-provided) + resolved fallback"
   },
   "categories": [
@@ -3290,6 +3290,20 @@
       "name": "Videos",
       "items": [
         {
+          "title": "Frank Miller: American Genius (free documentary)",
+          "year": "2026",
+          "author": "",
+          "note": "Covers ~50 years of the comic book visionary's career; directed by Silenn Thomas",
+          "link": "https://www.youtube.com/watch?v=qisItqFmEqI"
+        },
+        {
+          "title": "Frank Miller, Comic Book Legend — Creative Process, The Dark Knight Returns, Sin City, 300 (Tim Ferriss Show)",
+          "year": "2026",
+          "author": "",
+          "note": "Tim and Frank Miller deep dive on his creative process",
+          "link": "https://www.youtube.com/watch?v=6vW4K3ht-0w"
+        },
+        {
           "title": "Speaking With The Mind | Neuralink",
           "year": "2026",
           "author": "",
@@ -6049,6 +6063,20 @@
       "name": "Podcasts",
       "items": [
         {
+          "title": "Stephen Fry on Rosebud with Gyles Brandreth",
+          "year": "2026",
+          "author": "",
+          "note": "Biographical and comedic interview; the Hitchhiker's Guide audiobook narrator in his own words",
+          "link": "https://open.spotify.com/episode/6oiujVfsZVeSpf9ZEw91LW"
+        },
+        {
+          "title": "The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More (#886)",
+          "year": "2026",
+          "author": "",
+          "note": "Latest Random Show installment with Kevin Rose",
+          "link": "https://tim.blog/2026/10/09/the-random-show-ai-super-assistants-boner-pills-dream-engineering-wizards-supplements-books-and-more/"
+        },
+        {
           "title": "How to Simplify Your Life, part 4 (Tim Ferriss Show)",
           "year": "2026",
           "author": "",
@@ -6649,6 +6677,13 @@
       "type": "tool",
       "name": "Tools & Gadgets",
       "items": [
+        {
+          "title": "Wall Mount Charger for Philips Sonicare",
+          "year": "2026",
+          "author": "",
+          "note": "Replaces the charging station; no more cable tangle at the sink",
+          "link": "https://www.amazon.com/dp/B0H4ZRKRBY"
+        },
         {
           "title": "Sennheiser Pro Audio Condenser Microphone (XS Lav USB-C)",
           "year": "2026",
@@ -13078,6 +13113,13 @@
       "type": "quote",
       "name": "Quotes",
       "items": [
+        {
+          "title": "“Great artists make the roads; good teachers and good companions can point them out. But there ain’t no free rides, baby. No hitchhiking. And if you want to strike out in any new direction—you go alone. With a machete in your hand and the fear of God in your heart.”",
+          "year": "2026",
+          "author": "Ursula K. Le Guin",
+          "note": "",
+          "link": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin"
+        },
         {
           "title": "“The fact that this person exists in the world at all, this alone makes this world, and a life in it, meaningful.”",
           "year": "2026",
