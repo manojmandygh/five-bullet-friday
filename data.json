@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "Tim Ferriss 5-Bullet Friday",
-    "generated": "2026-10-09",
-    "total": 2926,
+    "generated": "2026-10-16",
+    "total": 2928,
     "linksSource": "Notion native export (author-provided) + resolved fallback"
   },
   "categories": [
@@ -3289,6 +3289,13 @@
       "type": "video",
       "name": "Videos",
       "items": [
+        {
+          "title": "My Journaling Process for Deep Focus and Less Stress - Tim Ferriss",
+          "year": "2026",
+          "author": "",
+          "note": "Tim's video complement to this edition: his journaling process for deep focus and less stress",
+          "link": "https://www.youtube.com/watch?v=UFdR8w_R1HA"
+        },
         {
           "title": "Frank Miller: American Genius (free documentary)",
           "year": "2026",
@@ -13113,6 +13120,13 @@
       "type": "quote",
       "name": "Quotes",
       "items": [
+        {
+          "title": "“Being inoffensive, and being offended, are now the twin addictions of the culture.”",
+          "year": "2026",
+          "author": "Martin Amis",
+          "note": "",
+          "link": "https://en.wikipedia.org/wiki/Martin_Amis"
+        },
         {
           "title": "“Great artists make the roads; good teachers and good companions can point them out. But there ain’t no free rides, baby. No hitchhiking. And if you want to strike out in any new direction—you go alone. With a machete in your hand and the fear of God in your heart.”",
           "year": "2026",
