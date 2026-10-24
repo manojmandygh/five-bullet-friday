@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "Tim Ferriss 5-Bullet Friday",
-    "generated": "2026-10-16",
-    "total": 2928,
+    "generated": "2026-10-24",
+    "total": 2940,
     "linksSource": "Notion native export (author-provided) + resolved fallback"
   },
   "categories": [
@@ -10,6 +10,13 @@
       "type": "book",
       "name": "Books",
       "items": [
+        {
+          "title": "Mentats of Dune",
+          "year": "2026",
+          "author": "Brian Herbert & Kevin J. Anderson",
+          "note": "Source of the pondered quote",
+          "link": "https://en.wikipedia.org/wiki/Mentats_of_Dune"
+        },
         {
           "title": "Already Free: Buddhism Meets Psychotherapy on the Path of Liberation",
           "year": "2026",
@@ -1592,6 +1599,20 @@
       "type": "music",
       "name": "Music",
       "items": [
+        {
+          "title": "Ice Nine Kills - Hip To Be Scared ft. Jacoby Shaddix",
+          "year": "2026",
+          "author": "",
+          "note": "Harder pick of the musical triad",
+          "link": "https://www.youtube.com/watch?v=ozOb5FcnDf4"
+        },
+        {
+          "title": "Mushroom in the Wild Playing Synth",
+          "year": "2026",
+          "author": "",
+          "note": "Fungal pick: mushroom bioelectrical fluctuations drive robotic arms on drum pads",
+          "link": "https://www.youtube.com/watch?v=LEkvjz50uws"
+        },
         {
           "title": "Inevitable Ending - Armen Miran and Hraach (Viken Arman & Goldcap remix)",
           "year": "2026",
@@ -3289,6 +3310,20 @@
       "type": "video",
       "name": "Videos",
       "items": [
+        {
+          "title": "Norm: The Tale of Norm Macdonald",
+          "year": "2026",
+          "author": "",
+          "note": "Documentary Tim is watching; Norm is NSFW",
+          "link": "https://www.netflix.com/title/81611105"
+        },
+        {
+          "title": "Norm Macdonald late-night appearances compilation",
+          "year": "2026",
+          "author": "",
+          "note": "For people without Netflix; NSFW",
+          "link": "https://www.youtube.com/watch?v=fD2ZhjQaNmU"
+        },
         {
           "title": "My Journaling Process for Deep Focus and Less Stress - Tim Ferriss",
           "year": "2026",
@@ -6069,6 +6104,13 @@
       "type": "podcast",
       "name": "Podcasts",
       "items": [
+        {
+          "title": "Dr. Willoughby Britton on the hidden risks of meditation (Tim Ferriss Show)",
+          "year": "2026",
+          "author": "",
+          "note": "Paired with the 100-hour dark retreat piece",
+          "link": "https://tim.blog/2023/11/22/dr-willoughby-britton/"
+        },
         {
           "title": "Stephen Fry on Rosebud with Gyles Brandreth",
           "year": "2026",
@@ -9117,6 +9159,27 @@
       "type": "essay",
       "name": "Articles & Essays",
       "items": [
+        {
+          "title": "What 100 Hours of Dark Retreat Did to My Mind - Nate Green",
+          "year": "2026",
+          "author": "",
+          "note": "Waking Up Head of Content and longtime meditator on 100 hours in darkness",
+          "link": "https://www.nategreen.org/p/what-100-hours-of-dark-retreat-did"
+        },
+        {
+          "title": "Adobe, Office, Outlook, ElevenLabs: AI is cloning all of it in Rust",
+          "year": "2026",
+          "author": "",
+          "note": "AI cloning major software at staggering speed; what moat remains?",
+          "link": "https://www.reddit.com/r/ClaudeAI/comments/1x9dl1f/adobe_office_outlook_elevenlabs_ai_is_cloning_all/"
+        },
+        {
+          "title": "Subscriber Q&A with Tim: AI and The 4-Hour Workweek",
+          "year": "2026",
+          "author": "",
+          "note": "Complement to this edition: 4HWW in the age of AI, rebuilding momentum, serendipity, The 4-Hour Body after 40",
+          "link": "https://tim.blog/2026/10/21/qa-with-tim-ai-4-hour-workweek/"
+        },
         {
           "title": "Open letter from Bernard Arnault (LVMH) responding to Le Monde investigation",
           "year": "2026",
@@ -13121,6 +13184,13 @@
       "name": "Quotes",
       "items": [
         {
+          "title": "“Successful people sort through priorities and act upon them, while the unsuccessful see only a fog of chaos.”",
+          "year": "2026",
+          "author": "Josef Venport, Mentats of Dune",
+          "note": "",
+          "link": "https://en.wikipedia.org/wiki/Mentats_of_Dune"
+        },
+        {
           "title": "“Being inoffensive, and being offended, are now the twin addictions of the culture.”",
           "year": "2026",
           "author": "Martin Amis",
@@ -16493,6 +16563,20 @@
       "type": "other",
       "name": "Other",
       "items": [
+        {
+          "title": "Silver Scream Convention",
+          "year": "2026",
+          "author": "",
+          "note": "Horror convention from Ice Nine Kills in Worcester, MA, near Salem",
+          "link": "https://www.silverscreamcon.com/"
+        },
+        {
+          "title": "Idealab - 1.2M+ free business ideas",
+          "year": "2026",
+          "author": "",
+          "note": "Bill Gross gives away 31 AI-refined methods and 1.2M+ business ideas, free",
+          "link": "https://idealab.ai/"
+        },
         {
           "title": "DUST",
           "year": "2026",
