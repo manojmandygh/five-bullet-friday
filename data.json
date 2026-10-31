@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "Tim Ferriss 5-Bullet Friday",
-    "generated": "2026-10-24",
-    "total": 2940,
+    "generated": "2026-10-31",
+    "total": 2948,
     "linksSource": "Notion native export (author-provided) + resolved fallback"
   },
   "categories": [
@@ -6105,6 +6105,20 @@
       "name": "Podcasts",
       "items": [
         {
+          "title": "The Poison Squad (Criminal podcast)",
+          "year": "2026",
+          "author": "",
+          "note": "1902 government experiment: twelve men ate formaldehyde, borax and salicylic acid daily; pre-FDA food safety",
+          "link": "https://open.spotify.com/episode/6d9xZl5tFoJP021DJQUJMu"
+        },
+        {
+          "title": "Jacques Pépin interview (Tim Ferriss Show)",
+          "year": "2026",
+          "author": "",
+          "note": "Brand-new interview with the legendary chef; complement to this edition",
+          "link": "https://tim.blog/2026/10/27/jacques-pepin/"
+        },
+        {
           "title": "Dr. Willoughby Britton on the hidden risks of meditation (Tim Ferriss Show)",
           "year": "2026",
           "author": "",
@@ -6726,6 +6740,34 @@
       "type": "tool",
       "name": "Tools & Gadgets",
       "items": [
+        {
+          "title": "Ninja Air Fryer Pro",
+          "year": "2026",
+          "author": "",
+          "note": "Fast cooking, faster cleanup; Tim is a convert",
+          "link": "https://www.amazon.com/dp/B0DW4KG8VM?lv=shuf&tag=offsitoftimfe-20&channelId=1&plpRedirect=mhFallback"
+        },
+        {
+          "title": "Maui Nui Reserve aged rib chops",
+          "year": "2026",
+          "author": "",
+          "note": "Tim's favorite air-fryer cook: room temp, olive oil, Montreal steak rub, 9 min at 400F",
+          "link": "https://mauinuivenison.com/products/reserve-aged-rib-chop"
+        },
+        {
+          "title": "Open Payments (CMS)",
+          "year": "2026",
+          "author": "",
+          "note": "Official US gov site for drug/device company payments to doctors; Tim used it to vet surgeons",
+          "link": "https://openpaymentsdata.cms.gov/"
+        },
+        {
+          "title": "Doctor Payments Data",
+          "year": "2026",
+          "author": "",
+          "note": "Friendlier explorer for Open Payments records; Tim suggests starting here",
+          "link": "https://www.doctorpaymentsdata.org/"
+        },
         {
           "title": "Wall Mount Charger for Philips Sonicare",
           "year": "2026",
@@ -16563,6 +16605,20 @@
       "type": "other",
       "name": "Other",
       "items": [
+        {
+          "title": "Cubicle Escape Artist",
+          "year": "2026",
+          "author": "",
+          "note": "60-second casual game based on The 4-Hour Workweek",
+          "link": "https://cubicle-escape-artist.space.fast/"
+        },
+        {
+          "title": "Spacefast",
+          "year": "2026",
+          "author": "",
+          "note": "Agent-native platform to deploy and publish your own games",
+          "link": "https://spacefast.com/"
+        },
         {
           "title": "Silver Scream Convention",
           "year": "2026",
