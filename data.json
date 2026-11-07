@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "Tim Ferriss 5-Bullet Friday",
-    "generated": "2026-10-31",
-    "total": 2948,
+    "generated": "2026-11-07",
+    "total": 2955,
     "linksSource": "Notion native export (author-provided) + resolved fallback"
   },
   "categories": [
@@ -10,6 +10,13 @@
       "type": "book",
       "name": "Books",
       "items": [
+        {
+          "title": "The Algorithm: The Hypergrowth Formula That Transformed Tesla, Lululemon, General Motors, and SpaceX",
+          "year": "2026",
+          "author": "Jon McNeill",
+          "note": "Tactical, concise playbook by Tesla's former president; nearly 100 highlights, Tim asked his COO to read it",
+          "link": "https://www.amazon.com/dp/B0FFG5KFSK?lv=shuf&tag=offsitoftimfe-20&channelId=1&plpRedirect=mhFallback"
+        },
         {
           "title": "Mentats of Dune",
           "year": "2026",
@@ -3311,6 +3318,20 @@
       "name": "Videos",
       "items": [
         {
+          "title": "You Can See Everything (A24)",
+          "year": "2026",
+          "author": "",
+          "note": "Documentary that blew Tim's mind; Nathan Fielder, Lance Oppenheim and team",
+          "link": "https://a24films.com/films/you-can-see-everything"
+        },
+        {
+          "title": "You Can See Everything - trailer",
+          "year": "2026",
+          "author": "",
+          "note": "Watch the trailer",
+          "link": "https://a24films.com/films/you-can-see-everything/video/you-can-see-everything-trailer"
+        },
+        {
           "title": "Norm: The Tale of Norm Macdonald",
           "year": "2026",
           "author": "",
@@ -6104,6 +6125,34 @@
       "type": "podcast",
       "name": "Podcasts",
       "items": [
+        {
+          "title": "The Real-Life Willy Wonka Who Built Tony Hawk a Secret Desert Train (Death, Sex & Money)",
+          "year": "2026",
+          "author": "",
+          "note": "Experience designer N.D. Austin; hat tip Elan Lee",
+          "link": "https://podcasts.apple.com/us/podcast/the-real-life-willy-wonka-who-built-tony-hawk-a/id870688022?i=1000719557726"
+        },
+        {
+          "title": "Lucky #888 - My Tour of Designing Luck in China, Japan, and Korea (Tim Ferriss Show)",
+          "year": "2026",
+          "author": "",
+          "note": "30-minute episode: million-dollar license plates, disappearing hotel floors, Toyota's lucky number",
+          "link": "https://tim.blog/2026/11/05/lucky-888-my-tour-of-designing-luck-in-china-japan-and-korea/"
+        },
+        {
+          "title": "Craig Mod Returns (Tim Ferriss Show)",
+          "year": "2026",
+          "author": "",
+          "note": "Complement: epic walks in Japan",
+          "link": "https://tim.blog/2025/03/28/craig-mod-returns/"
+        },
+        {
+          "title": "Steve Jang, Live from South Korea (Tim Ferriss Show)",
+          "year": "2026",
+          "author": "",
+          "note": "Complement: K-pop, 'han' energy, must-see Korean films",
+          "link": "https://tim.blog/2023/11/30/steve-jang-live-from-south-korea/"
+        },
         {
           "title": "The Poison Squad (Criminal podcast)",
           "year": "2026",
