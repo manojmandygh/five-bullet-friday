@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "Tim Ferriss 5-Bullet Friday",
-    "generated": "2026-11-07",
-    "total": 2955,
+    "generated": "2026-11-14",
+    "total": 2962,
     "linksSource": "Notion native export (author-provided) + resolved fallback"
   },
   "categories": [
@@ -1606,6 +1606,13 @@
       "type": "music",
       "name": "Music",
       "items": [
+        {
+          "title": "14 June - Organic Mood",
+          "year": "2026",
+          "author": "",
+          "note": "For writing and deep-work blocks; 'moments of peace carried by the wind of June'",
+          "link": "https://open.spotify.com/track/2PwtvMbRI7z7NryeGcA5EZ"
+        },
         {
           "title": "Ice Nine Kills - Hip To Be Scared ft. Jacoby Shaddix",
           "year": "2026",
@@ -3317,6 +3324,20 @@
       "type": "video",
       "name": "Videos",
       "items": [
+        {
+          "title": "A Full Day with New York City Ballet's Sugar Plum Fairy (Condé Nast Traveler)",
+          "year": "2026",
+          "author": "",
+          "note": "Principal dancer Indiana Woodward's full day performing The Nutcracker",
+          "link": "https://www.youtube.com/watch?v=fa-I7iUErK0"
+        },
+        {
+          "title": "Paul Millerd's book layout editor demo",
+          "year": "2026",
+          "author": "",
+          "note": "Short video of the layout editor Paul built for himself",
+          "link": "https://www.youtube.com/watch?v=UdeexrHJ0J4"
+        },
         {
           "title": "You Can See Everything (A24)",
           "year": "2026",
@@ -6125,6 +6146,13 @@
       "type": "podcast",
       "name": "Podcasts",
       "items": [
+        {
+          "title": "Q&A with Tim: How to Get Unstuck (Tim Ferriss Show)",
+          "year": "2026",
+          "author": "",
+          "note": "Complement: getting unstuck, resilience, brain health tools, inner peace, learnable optimism",
+          "link": "https://tim.blog/2026/11/12/qa-with-tim-how-to-get-unstuck/"
+        },
         {
           "title": "The Real-Life Willy Wonka Who Built Tony Hawk a Secret Desert Train (Death, Sex & Money)",
           "year": "2026",
@@ -9250,6 +9278,13 @@
       "type": "essay",
       "name": "Articles & Essays",
       "items": [
+        {
+          "title": "How I'm Using AI Without Losing My Mind - Paul Millerd",
+          "year": "2026",
+          "author": "",
+          "note": "Skips predictions; what Paul is actually doing with AI",
+          "link": "https://newsletter.pathlesspath.com/p/how-im-using-ai-without-losing-my"
+        },
         {
           "title": "What 100 Hours of Dark Retreat Did to My Mind - Nate Green",
           "year": "2026",
@@ -13275,6 +13310,13 @@
       "name": "Quotes",
       "items": [
         {
+          "title": "“As long as there is one upright man, as long as there is one compassionate woman, the contagion may spread and the scene is not desolate. Hope is the thing that is left to us, in a bad time.”",
+          "year": "2026",
+          "author": "E.B. White, Letter to Mr. Nadeau, 1973",
+          "note": "",
+          "link": "https://en.wikipedia.org/wiki/E._B._White"
+        },
+        {
           "title": "“Successful people sort through priorities and act upon them, while the unsuccessful see only a fog of chaos.”",
           "year": "2026",
           "author": "Josef Venport, Mentats of Dune",
@@ -16654,6 +16696,13 @@
       "type": "other",
       "name": "Other",
       "items": [
+        {
+          "title": "Archived Futures - Ryan McEntush",
+          "year": "2026",
+          "author": "",
+          "note": "281 strange-but-true US government plans and studies, many declassified, 1857-2024",
+          "link": "https://archivedfutures.com/"
+        },
         {
           "title": "Cubicle Escape Artist",
           "year": "2026",
