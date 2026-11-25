@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "Tim Ferriss 5-Bullet Friday",
-    "generated": "2026-11-14",
-    "total": 2962,
+    "generated": "2026-11-20",
+    "total": 2963,
     "linksSource": "Notion native export (author-provided) + resolved fallback"
   },
   "categories": [
@@ -6817,6 +6817,13 @@
       "type": "tool",
       "name": "Tools & Gadgets",
       "items": [
+        {
+          "title": "Ferrite Recording Studio (iOS app)",
+          "year": "2026",
+          "author": "",
+          "note": "Record high-fidelity audio on iPhone; Tim pairs it with the Sennheiser XS Lav USB-C mic",
+          "link": "https://apps.apple.com/us/app/ferrite-recording-studio/id1018780185"
+        },
         {
           "title": "Ninja Air Fryer Pro",
           "year": "2026",
