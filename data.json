@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "Tim Ferriss 5-Bullet Friday",
-    "generated": "2026-11-20",
-    "total": 2963,
+    "generated": "2026-11-27",
+    "total": 2970,
     "linksSource": "Notion native export (author-provided) + resolved fallback"
   },
   "categories": [
@@ -10,6 +10,13 @@
       "type": "book",
       "name": "Books",
       "items": [
+        {
+          "title": "The Left Hand of Darkness - Ursula K. Le Guin",
+          "year": "2026",
+          "author": "",
+          "note": "Source of the pondered quote",
+          "link": "https://en.wikipedia.org/wiki/The_Left_Hand_of_Darkness"
+        },
         {
           "title": "The Algorithm: The Hypergrowth Formula That Transformed Tesla, Lululemon, General Motors, and SpaceX",
           "year": "2026",
@@ -1606,6 +1613,13 @@
       "type": "music",
       "name": "Music",
       "items": [
+        {
+          "title": "Heart & Soul - Roseaux & Olle Nyman",
+          "year": "2026",
+          "author": "",
+          "note": "From the 2019 album Roseaux II; Swedish singer-songwriter Olle Nyman revisits one of his own songs",
+          "link": "https://open.spotify.com/track/4cx22qB7ygk43XLNGBKXGC"
+        },
         {
           "title": "14 June - Organic Mood",
           "year": "2026",
@@ -3324,6 +3338,20 @@
       "type": "video",
       "name": "Videos",
       "items": [
+        {
+          "title": "Interview with a Productivity Freak in 2026",
+          "year": "2026",
+          "author": "",
+          "note": "Hilarious video; the flip side of the AI-productivity tips",
+          "link": "https://www.youtube.com/watch?v=guvFKt_Zjqw"
+        },
+        {
+          "title": "Working as Intended - Telosapien",
+          "year": "2026",
+          "author": "",
+          "note": "Music video starring Claudia, an open AI pop-singer character",
+          "link": "https://www.youtube.com/watch?v=Z6_ENp_fO_Y"
+        },
         {
           "title": "A Full Day with New York City Ballet's Sugar Plum Fairy (Condé Nast Traveler)",
           "year": "2026",
@@ -6147,6 +6175,13 @@
       "name": "Podcasts",
       "items": [
         {
+          "title": "Henry Shukman #3 - Zen Master (The Tim Ferriss Show)",
+          "year": "2026",
+          "author": "",
+          "note": "Brand-new conversation; complement to the Nov 27 edition",
+          "link": "https://tim.blog/2026/11/25/henry-shukman-3/"
+        },
+        {
           "title": "Q&A with Tim: How to Get Unstuck (Tim Ferriss Show)",
           "year": "2026",
           "author": "",
@@ -6817,6 +6852,13 @@
       "type": "tool",
       "name": "Tools & Gadgets",
       "items": [
+        {
+          "title": "Kuhn Rikon Epicurean Garlic Press",
+          "year": "2026",
+          "author": "",
+          "note": "The Bugatti of garlic presses; all metal, no peeling needed - press cloves skin and all",
+          "link": "https://www.amazon.com/dp/B0000CD0HX?tag=offsitoftimfe-20"
+        },
         {
           "title": "Ferrite Recording Studio (iOS app)",
           "year": "2026",
@@ -9285,6 +9327,13 @@
       "type": "essay",
       "name": "Articles & Essays",
       "items": [
+        {
+          "title": "@BoredElonMusk AI insurance-claim how-to (X thread)",
+          "year": "2026",
+          "author": "",
+          "note": "Standout detailed reply to Tim's X question on the most useful AI assistant/agent wins; hundreds of hours saved on a burned-down-home claim",
+          "link": "https://x.com/BoredElonMusk/status/2124380936800477620"
+        },
         {
           "title": "How I'm Using AI Without Losing My Mind - Paul Millerd",
           "year": "2026",
